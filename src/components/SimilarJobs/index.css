@@ -1,0 +1,9 @@
+.similar-job-item {
+  min-width: 300px;
+  max-width: 500px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background-color: #272727;
+  padding: 20px;
+  border-radius: 8px;
+}

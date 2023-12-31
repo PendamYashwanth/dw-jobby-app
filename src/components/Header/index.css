@@ -1,0 +1,53 @@
+.navbar {
+  background-color: #272727;
+}
+
+.website-logo-container {
+  height: 80px;
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.website-logo {
+  width: 90%;
+}
+
+.nav-menu-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-left: 0px;
+}
+
+.nav-menu-item {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 18px;
+  color: #ffffff;
+  margin-right: 20px;
+  margin-bottom: 0px;
+  list-style-type: none;
+}
+
+.logout-button-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logout-button {
+  font-family: 'Roboto';
+  font-weight: 900;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #6366f1;
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  padding: 8px 16px 8px 16px;
+}

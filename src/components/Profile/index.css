@@ -1,0 +1,23 @@
+.jobProfile-bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  width: 100%;
+  border-radius: 36px;
+  padding: 64px 48px 64px 48px;
+}
+
+.avatar {
+  width: 80px;
+}
+
+.avatar-name {
+  font-family: 'Roboto';
+  font-size: 28px;
+  color: #6366f1;
+}
+
+.avatar-description {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #475569;
+}

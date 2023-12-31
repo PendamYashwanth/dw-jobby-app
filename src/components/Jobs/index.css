@@ -1,0 +1,42 @@
+.jobs-bg-container {
+  background-color: #121212;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.jobs-responsive-container {
+  width: 90%;
+  margin: auto;
+}
+
+.jobItems-container {
+  padding-left: 0px;
+}
+
+.retry-button {
+  font-family: 'Roboto';
+  font-weight: 900;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #6366f1;
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  padding: 8px 16px 8px 16px;
+}
+
+.search-input-container {
+  background-color: #6366f1;
+  width: 90%;
+}
+
+.search-input {
+  height: 40px;
+  width: 100%;
+  outline: none;
+  padding: 8px 16px 8px 16px;
+}
+
+.search-icon-container {
+  width: 10%;
+}
